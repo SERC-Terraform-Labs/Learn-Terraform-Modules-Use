@@ -1,4 +1,4 @@
-# Learn Terraform Modules Create
+# Learn Terraform Modules Use and Create
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/.../...)
 

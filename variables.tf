@@ -33,7 +33,7 @@ variable "vpc_public_subnets" {
 variable "vpc_enable_nat_gateway" {
   description = "Enable NAT gateway for VPC"
   type        = bool
-  default     = true
+  default     = false
 }
 
 variable "vpc_tags" {
